@@ -1,0 +1,53 @@
+[
+
+  {
+    "id": 1,
+    "postid": 2,
+    "text": "SincereComment"
+  },
+  {
+    "id": 2,
+    "postid": 2,
+    "text": "SomeComment"
+  },
+  {
+    "id": 3,
+    "postid": 2,
+    "text": "ExtraComment"
+  },
+  {
+    "id": 4,
+    "postid": 4,
+    "text": "SmallComment"
+  },
+  {
+    "id": 5,
+    "postid": 6,
+    "text": "CommentForMe"
+  },
+  {
+    "id": 1,
+    "postid": 20,
+    "text": "SincereComments"
+  },
+  {
+    "id": 2,
+    "postid": 20,
+    "text": "SomeComments"
+  },
+  {
+    "id": 3,
+    "postid": 21,
+    "text": "ExtraCommentss"
+  },
+  {
+    "id": 4,
+    "postid": 22,
+    "text": "SmallComments"
+  },
+  {
+    "id": 5,
+    "postid": 23,
+    "text": "CommentForMes"
+  }
+]
